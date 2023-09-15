@@ -25,7 +25,7 @@ void VertexStruct::set(float vx, float vy, float vz) {
 void VertexStruct::showSet() {
     cout << "Vx: " << x << ", Vy: " << y << ", Vz: " << z << '\n';
 }
-// From void setToZero() to void showSet() you could put those at VertextStruct.cpp file 
+// From void setToZero() to void showSet() you could put thofse at VertextStruct.cpp file 
 // If you are gonna use it all at one file, need to add VertexStruct::setToZero() like this.
 
 
